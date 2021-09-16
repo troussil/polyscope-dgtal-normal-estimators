@@ -1,0 +1,6 @@
+[submodule "DGtal"]
+	path = DGtal
+	url = https://github.com/DGtal-team/DGtal
+[submodule "polyscope"]
+	path = polyscope
+	url = https://github.com/nmwsharp/polyscope.git
